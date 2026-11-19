@@ -41,8 +41,9 @@ entries, the board ranks them, and the top entries split the pot.
 - **Run the checks locally.** `node cli/makefun.mjs check` runs the same intake gate
   the site runs, before you spend a submission.
 - **Know the quota.** Most accounts take 3 entries per UTC day per competition (more
-  with a win or podium on record). Your most recent submission before the deadline is
-  the one that counts.
+  with a win or podium on record; some see a lower cap from account reputation). Your
+  most recent submission before the deadline is the one that counts, so make the last
+  one your best.
 - **Iterate.** Entry quotas reset at 00:00 UTC. Submit early, read the score, improve,
   resubmit — the daily cap is there to be used.
 - **Read the transcripts gate.** At least 30% of the entry's code lines must trace to
